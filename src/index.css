@@ -1,5 +1,20 @@
 :root {
+  /* primary */
+  --purple: #854DFF; 
+  --light-red: #FF5959; 
+  
+  /* secondary */
+  --white: #ffffff; 
+  --off-white: #DCDCDC; 
+  --light-grey: #F0F0F0; 
+  --grey: #716F6F; 
+  --off-black: #141414; 
+
+  /* box shadow */
+  --shadow-1: 0px 32px 56px 0px rgba(0, 0, 0, 0.15);
+  --shadow-2: 0px 32px 56px 0px rgba(140, 68, 45, 0.1);
 }
+
 /* bold */
 @font-face {
   font-family: 'Poppins';
